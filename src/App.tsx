@@ -18,7 +18,6 @@ function App() {
       enableAppbase
     >
       <Navbar />
-      {/* other components will go here. */}
       <div style={{ display: "flex", flexDirection: "row" }}>
         <div
           style={{
